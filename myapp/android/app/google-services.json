@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "321677686962",
+    "project_id": "oceancart-c7ce6",
+    "storage_bucket": "oceancart-c7ce6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321677686962:android:d73bf0eefe9539a7eab1ab",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6p7VwRtHiMsEidi_4zQU37ootVoAMAdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321677686962:android:9207cda9e7bda206eab1ab",
+        "android_client_info": {
+          "package_name": "com.oceancart.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6p7VwRtHiMsEidi_4zQU37ootVoAMAdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
